@@ -1,2 +1,2 @@
 # ABC Analysis with Excel
-This repository serve to contain my learning journey using MS Excel.
+Utilizing Excel and PowerPivot to conduct ABC analysis on inventory dataset
