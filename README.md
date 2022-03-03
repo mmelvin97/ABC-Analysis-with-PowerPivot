@@ -7,7 +7,7 @@
 ## Objective
 1. Load the relevant dataset into the excel workbook
 2. Create relevant PivotTables and PivotCharts/ Charts for ABC analysis
-3. Draw conclusion from the insight
+3. Summarize findings
 
 ## Method
 ### Step 1: Loading the relevant dataset into excel workbook using PowerPivot
@@ -42,7 +42,7 @@
 ![image](https://user-images.githubusercontent.com/53467152/156323205-6b49d51e-88b5-4df7-b59d-7e900ba0099e.png)
 
 # Conclusion
-
+Category A items is represented 21% from the overall items and 60% in term of value. Category B items is represented by 30% from the overall items and 25% in value. Category C items is represented 49% from the overall items and only 15% in value.
 
 
 
